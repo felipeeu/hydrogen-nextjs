@@ -15,7 +15,7 @@
 
 .form-input,
 .form-textarea {
-  @apply border border-border bg-transparent py-3 px-5 placeholder:text-text/50 focus:border-border focus:bg-[#202e3c] focus:ring-transparent;
+  @apply border border-border bg-transparent px-5 py-3 placeholder:text-text/50 focus:border-border focus:bg-[#ECF2FF] focus:ring-transparent;
 }
 
 // social icon style
@@ -60,7 +60,7 @@
   @apply prose-hr:border-[#cbcbcb42]/25;
   @apply prose-p:text-text;
   @apply prose-img:rounded-lg;
-  @apply prose-blockquote:rounded prose-blockquote:border-primary prose-blockquote:bg-[rgba(97,238,188,4%)] prose-blockquote:py-8 prose-blockquote:px-8 prose-blockquote:text-2xl prose-blockquote:not-italic prose-blockquote:leading-9 prose-blockquote:text-dark;
+  @apply prose-blockquote:rounded prose-blockquote:border-primary prose-blockquote:bg-[rgba(97,238,188,4%)] prose-blockquote:px-8 prose-blockquote:py-8 prose-blockquote:text-2xl prose-blockquote:not-italic prose-blockquote:leading-9 prose-blockquote:text-dark;
   @apply prose-code:inline-block prose-code:rounded-sm prose-code:px-4 prose-code:pb-4;
   @apply prose-strong:text-text;
   @apply prose-a:text-primary;
@@ -135,6 +135,9 @@
 
   p {
     @apply my-0;
+    &.error {
+      @apply bg-[#97d6ff];
+    }
   }
 
   &.tip {

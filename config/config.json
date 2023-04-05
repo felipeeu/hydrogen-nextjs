@@ -1,8 +1,8 @@
 {
   "site": {
-    "title": "Hydrogen Nextjs",
+    "title": "Prof. Felipe Domingues",
     "base_url": "/",
-    "favicon": "/images/developer.png"
+    "favicon": "/images/foto_rosto.jpg"
   },
 
   "settings": {
@@ -12,10 +12,11 @@
   },
 
   "profile": {
-    "name": "Michael Caine",
-    "image": "/images/developer.png",
-    "designation": "Front-end developer",
-    "bio": "A Full Stack Front-end Developer based in New York. Meticulous web developer with over 2 years of front end experience and passion for responsive and mobile-first website design."
+    "name": "Felipe Dominges",
+    "image": "/images/foto_rosto.jpg",
+    "designation": "Professor de Química e Desenvolvedor de Software",
+    "bio": "Há 15 anos descomplicando a Química",
+    "teaser": "Aulas Online e Presenciais"
   },
 
   "params": {
@@ -25,7 +26,7 @@
   },
 
   "metadata": {
-    "meta_author": "Statichunt",
+    "meta_author": "Felipe Domingues",
     "meta_image": "",
     "meta_description": ""
   },

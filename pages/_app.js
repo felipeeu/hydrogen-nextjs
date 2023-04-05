@@ -5,7 +5,8 @@ import Head from "next/head";
 import { useEffect, useState } from "react";
 import TagManager from "react-gtm-module";
 import "styles/style.scss";
-
+import "react-toastify/dist/ReactToastify.css";
+import { ToastContainer } from "react-toastify";
 
 const App = ({ Component, pageProps }) => {
   // import google font css
@@ -53,7 +54,8 @@ const App = ({ Component, pageProps }) => {
           content="width=device-width, initial-scale=1, maximum-scale=5"
         />
       </Head>
-        <Component {...pageProps} />
+      <Component {...pageProps} />
+      <ToastContainer />
     </>
   );
 };

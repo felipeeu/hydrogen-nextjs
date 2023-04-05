@@ -1,20 +1,17 @@
 ---
-title: "Contact Me"
+title: "Contato"
 layout: "contact"
 draft: false
-
-
 ---
 
-## Get in touch
+## Deixe sua mensagem
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
+Para entrar em contato e agendar sua primeira aula, por favor deixe seu nome, número de telefone e e-mail abaixo. Entraremos em contato com você o mais breve possível para discutir suas necessidades e agendar uma aula que caiba na sua agenda.
 
-### Location
+### Localização
 
-4140 Parker Rd. Allentown,
-New Mexico 31134
+Rio de Janeiro-RJ
 
-### Phone
+### Celular (whatsapp)
 
-+88544767456
+(21) 96909-4087

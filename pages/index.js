@@ -12,7 +12,7 @@ const { blog_folder } = config.settings;
 
 const Home = ({ posts }) => {
   const { pagination } = config.settings;
-  const { name, image, designation, bio } = config.profile;
+  const { name, image, designation, bio, teaser } = config.profile;
   const sortPostByDate = sortByDate(posts);
 
   return (
@@ -35,8 +35,9 @@ const Home = ({ posts }) => {
                 "h1",
                 "mt-12 text-6xl lg:text-8xl font-semibold"
               )}
-              {markdownify(designation, "p", "mt-6 text-primary text-xl")}
-              {markdownify(bio, "p", "mt-4 leading-9 text-xl")}
+              {markdownify(designation, "p", "mt-4 leading-9 text-xl")}
+              {markdownify(bio, "h4", "mt-4 leading-9 ")}
+              {markdownify(teaser, "h2", " mt-6 ")}
               <Social source={social} className="profile-social-icons mt-8" />
             </div>
           </div>
