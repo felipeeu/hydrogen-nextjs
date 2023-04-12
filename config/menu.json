@@ -4,6 +4,7 @@
       "name": "Todos Posts",
       "url": "/"
     },
+    { "name": "Formação", "url": "formacao" },
     {
       "name": "Contato",
       "url": "/contact"
@@ -13,8 +14,8 @@
       "url": "/projetos"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Materiais",
+      "url": "/materiais"
     }
   ]
 }

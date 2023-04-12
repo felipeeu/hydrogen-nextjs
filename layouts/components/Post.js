@@ -29,7 +29,7 @@ const Post = ({ post, className }) => {
           className="btn-link mt-7 inline-flex items-center hover:text-primary"
           href={`/${blog_folder}/${post.slug}`}
         >
-          Continue Reading
+          Continuar Lendo
           <svg
             className="ml-1"
             width="22"

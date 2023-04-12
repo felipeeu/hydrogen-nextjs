@@ -40,7 +40,7 @@ const Header = () => {
 
   return (
     <>
-      <header className={`header mt-8 pt-12 pb-3`}>
+      <header className={`header mt-8 pb-3 pt-12`}>
         <nav className="navbar container text-center md:text-left">
           {/* navbar toggler */}
           <button
@@ -84,7 +84,7 @@ const Header = () => {
                     fill="currentcolor"
                   ></path>
                 </svg>
-                Back to Home
+                Voltar
               </Link>
             </div>
           )}
@@ -93,7 +93,7 @@ const Header = () => {
             id="nav-menu"
             className={`navbar-nav order-3 ${
               !openMenu && "hidden"
-            } w-full justify-center md:flex md:w-auto md:space-x-2 md:order-1`}
+            } w-full justify-center md:order-1 md:flex md:w-auto md:space-x-2`}
           >
             {navMenu.map((menu, i) => (
               <React.Fragment key={`menu-${i}`}>
