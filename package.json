@@ -28,6 +28,7 @@
     "react-image-lightbox": "^5.1.4",
     "react-lite-youtube-embed": "^2.3.52",
     "react-syntax-highlighter": "^15.5.0",
+    "react-toastify": "^9.1.2",
     "rehype-slug": "^5.1.0",
     "remark-gfm": "^3.0.1",
     "yup": "^1.0.2"
