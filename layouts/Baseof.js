@@ -64,18 +64,18 @@ const Base = ({
         />
 
         {/* twitter-title */}
-        <meta
+        {/* <meta
           name="twitter:title"
           content={plainify(
             meta_title ? meta_title : title ? title : config.site.title
           )}
-        />
+        /> */}
 
         {/* twitter-description */}
-        <meta
+        {/* <meta
           name="twitter:description"
           content={plainify(description ? description : meta_description)}
-        />
+        /> */}
 
         {/* og-image */}
         <meta
@@ -84,11 +84,11 @@ const Base = ({
         />
 
         {/* twitter-image */}
-        <meta
+        {/* <meta
           name="twitter:image"
           content={`${base_url}${image ? image : meta_image}`}
         />
-        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:card" content="summary_large_image" /> */}
       </Head>
 
       {router.route !== "/posts/[single]" && (

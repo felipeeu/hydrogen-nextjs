@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Prof. Felipe Domingues",
-    "base_url": "/",
+    "title": "Professor Particular de Química - Felipe Domingues",
+    "base_url": "http://www.profquimica.com.br",
     "favicon": "/images/foto_rosto.jpg"
   },
 
@@ -28,7 +28,7 @@
   "metadata": {
     "meta_author": "Felipe Domingues",
     "meta_image": "",
-    "meta_description": ""
+    "meta_description": "Aulas particulares de Química"
   },
 
   "disqus": {

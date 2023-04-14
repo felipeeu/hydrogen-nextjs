@@ -12,6 +12,8 @@ const Document = () => {
         <link rel="shortcut icon" href={favicon} />
         {/* theme meta */}
         <meta name="theme-name" content="hydrogen-nextjs" />
+        <meta property="og:locale" content="pt_BR" />
+        <meta property="og:site_name" content="profquimica" />
         <meta name="msapplication-TileColor" content="#000000" />
         <meta
           name="theme-color"
