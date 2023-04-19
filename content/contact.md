@@ -14,4 +14,4 @@ Rio de Janeiro-RJ
 
 ### Celular (whatsapp)
 
-[(21) 96909-4087]("https://wa.me/5521969094087")
+<a href= "https://wa.me/5521969094087" >(21) 96909-4087</a>
