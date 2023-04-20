@@ -6,7 +6,7 @@ draft: false
 
 ## Deixe sua mensagem
 
-Para entrar em contato e agendar sua primeira aula, por favor deixe seu nome, número de telefone e e-mail abaixo. Entraremos em contato com você o mais breve possível para discutir suas necessidades e agendar uma aula que caiba na sua agenda.
+Para entrar em contato e agendar sua primeira aula, por favor deixe seu nome, número de telefone e e-mail abaixo. Entrarei em contato com você o mais breve possível para discutir suas necessidades e agendar uma aula que caiba na sua agenda.
 
 ### Localização
 
