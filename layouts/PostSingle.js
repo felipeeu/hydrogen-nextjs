@@ -66,18 +66,18 @@ const PostSingle = ({ post, mdxContent, slug, posts }) => {
                           </Link>
                         </li>
                       ))}
-                      |
+                      {/* | */}
                     </ul>
                   </li>
-                  <li className="mb-2 mr-4 inline-block">
+                  {/* <li className="mb-2 mr-4 inline-block">
                     <span className="mr-2 inline-block">
                       {dateFormat(date)}
                     </span>{" "}
                     |
-                  </li>
-                  <li className="mb-2 mr-4 inline-block">
+                  </li> */}
+                  {/* <li className="mb-2 mr-4 inline-block">
                     {readingTime(content)}
-                  </li>
+                  </li> */}
                 </ul>
                 <div className="content text-left">
                   <MDXRemote {...mdxContent} components={shortcodes} />

@@ -19,7 +19,7 @@ const Post = ({ post, className }) => {
             </li>
           ))}
         </ul>
-        <p className="my-4">{dateFormat(post.frontmatter.date)}</p>
+        {/* <p className="my-4">{dateFormat(post.frontmatter.date)}</p> */}
         <h2 className="h3 mb-2 font-normal">
           <Link href={`/${blog_folder}/${post.slug}`} className="block">
             {post.frontmatter.title}
