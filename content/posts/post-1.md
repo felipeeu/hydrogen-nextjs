@@ -1,9 +1,9 @@
 ---
-title: "Mendeleev e o berço da Tabela Periódica"
+title: "Mendeleev e a Tabela Periódica"
 date: 2023-04-04T05:00:00Z
 image: /images/posts/post-1.jpg
 categories:
-  - Tabela
+  - Elementos
 draft: false
 ---
 
