@@ -7,8 +7,6 @@ categories:
 draft: false
 ---
 
-[![chemistry|hall](https://chemistryhall.com/wp-content/uploads/2014/11/cropped-Chemistry-Hall-2.png)](https://chemistryhall.com/what-is-the-color-of-oxygen/)
-
 Por que nós, incluindo todas as formas de vida, não podemos viver sem ele? O que há de tão especial nesse elemento?
 
 #### Oxigênio
@@ -43,3 +41,7 @@ Qual é a cor do oxigênio? Bem, o oxigênio gasoso é incolor. No entanto, quan
 #### Porque Azul?
 
 Assim como acontece com a água (que também é azul, diga-se de passagem!), as transições energéticas dos eletrons no oxigênio (que são também a causa do seu paramagnetismo) absorvem luz no espectro vermelho. Assim, a luz vermelha é absorvida até certo ponto, dando à substância sua cor complementar: o azul.
+
+###### Fonte:
+
+<a href="https://chemistryhall.com/what-is-the-color-of-oxygen/" target="_blank" > <img src={'https://chemistryhall.com/wp-content/uploads/2014/11/ORmh9Kg.png'} width="100" height="50"/></a>
