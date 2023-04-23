@@ -13,7 +13,7 @@ const ImageFallback = (props) => {
       onError={() => {
         setImgSrc(fallback);
       }}
-      style={{ filter: "grayscale(1)" }}
+      // style={{ filter: "grayscale(1)" }}
     />
   );
 };
